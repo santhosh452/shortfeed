@@ -1,0 +1,356 @@
+[sports]	:
+
+	Vijender Singh's Olympic hopes dashed after Vikas Krishan qualifies for Rio-1
+
+
+With Vikas Krishan making the cut for Olympics in the 75kg category, the door is shut on the much celebrated Vijender Singh, who was eyeing qualification to Rio ever since the International Boxing Association (AIBA) allowed professional boxers to compete in the quadrennial showpiece.
+
+Vikas entered the semifinals of the AIBA World Qualifying Tournament in Baku, Azerbaijan to book a Rio berth after out-punching Korea's Lee Dongyun in the quarterfinals 3-0 on Thursday.
+
+Though disappointed that he would not be able to take a shot at Olympic qualification now, Vijender said he is happy for those who have made the cut.
+
+
+
+
+	ICC Test rankings: Steve Smith closes in on Virat Kohli, overtakes Kane Williamson to second position-2
+
+
+
+Indian skipper Virat Kohli on Monday retained the top spot in the latest ICC Test batsmen's rankings while Australia's Steve Smith moved to the second position.
+
+Smith overtook New Zealand captain Kane Williamson to reach the second spot. Smith is now just nine points behind Kohli. Kohli has 922 points whereas Smith has 913 points.
+
+The 30-year-old Smith has so far scored 378 runs in the ongoing Ashes series between England and Australia. But Kohli will get a chance to better his lead as India gear up to face West Indies in the two-match series.
+
+	
+
+	Different gamepLeh: MS Dhoni plays cricket with kids on a basketball court-3
+
+
+
+Former Indian captain MS Dhoni - who was serving in the Parachute Regiment of the Territorial Army in Jammu and Kashmir - is making the most of his time in the valley.
+
+Dhoni is carrying out patrolling, guard duties and similar responsibilities just like other soldiers. But there is nothing stopping the wicketkeeper when it comes to cricket.
+
+A picture of Dhoni playing cricket with kids in Leh has gone viral on social media. 
+
+	
+	
+	2019 BWF World Championships: Kidambi Srikanth seeks to find mojo again-4
+
+
+
+The 2019 BWF World Championships in Basel, Switzerland, from Monday is the tournament for India's best men's singles shuttler Kidambi Srikanth to redeem his career.
+
+A lot of hopes are pinned on the former world No. 1, though for a brief period in April 2018, who has had an awful 2019 so far.
+
+The world No. 10 enters his fifth World Championships as the seventh seed and is set to face Ireland's Vietnam-born Nhat Nguyen on Monday, the same player against whom he opened his 2018 Worlds in Nanjing, China, winning in straight games in what was their first and only head-to-head in the international circuit.
+
+
+
+	Hockey: India face 1-2 defeat against New Zealand at Olympic Test Event-5
+
+
+
+The Indian men's hockey team suffered a defeat at the hands of world number eight New Zealand by 1-2 in their second match of the Olympic Test Event at the Oi Hockey Stadium here on Sunday.
+
+Captain Harmanpreet Singh gave India the lead in the second minute by converting a penalty corner, but New Zealand struck back in the last quarter through two well-crafted field goals, which were scored by Jacob Smith (47') and Sam Lane (60').
+
+World number five Indian side started the match with an aggressive approach and dominated possession in the opening few minutes. India won their first penalty corner in just second minute, which was beautifully converted by Harmanpreet to give his team a quick start and a 1-0 lead.
+
+
+[technology]	:
+
+
+
+	WhatsApp rolls out fingerprint lock feature for its Beta users-1
+
+
+
+WhatsApp developers have finally rolled out the fingerprint lock feature in the latest Beta version of the app. This feature reaches the beta testing version about eight months after it was initially spotted as a hidden feature. It is worth noting that the company already rolled out the feature for iOS beta users of WhatsApp more than three months back.
+
+WhatsApp wants to ensure that the name of the feature best reflects what it does while not creating any confusion. According to a report by WABetaInfo, this feature is now available Android beta users running the app version 2.19.221. 
+
+The report confirmed that users can still reply to messages from notifications or receive calls after the lock. The feature comes with three options to “Automatically lock” the app. The first is “immediately”, the second is “After 1 minute”, and the third is “After 30 minutes”. 
+
+
+
+	Official beta version of the Apple Watch Spotify app is now available-2
+
+
+
+As spotted by Reddit user by EdmundFitzgerald29, the most recent build of TestFlight includes an official Spotify companion app for Apple Watch.
+
+When EdmundFitzgerald29 updated TestFlight -- a service designed for developers to share and test their mobile applications before officially releasing them on the app store -- on Saturday, November 3, the Reddit user noticed a beta version of an official Spotify Apple Watch application had made its way to the platform.
+
+In addition to sharing a few screenshots of the application, he said that "right now it's limited to controlling playback on the phone" ...and that's it. No offline support or anything else.
+
+
+
+	Microsoft planning a foldable Surface with Android apps: Report-3
+
+
+
+Microsoft is reportedly planning to introduce a smaller Surface-like tablet that will have a foldable display.
+
+IHS Markit told Forbes in an email that the purported Microsoft tablet is expected to sport two 9-inch screens with a 4:3 aspect ratio.
+
+The device is likely to run Windows Core OS to support the dual display, and come equipped with Android Apps, iCloud service, support 5G/LTE, and adopt Intel's 10nm Lakefield SoC. It is expected to release in Q1 2020 or by the first half of 2020.
+
+	
+
+	Google offers solutions to avoid more EU Android fines-4
+
+
+
+Google formally offered its solutions to avoid more EU mega-fines Wednesday, after Brussels accused the US tech giant of illegally abusing the dominance of its Android operating system for mobile devices.
+
+The European Commission in July hit Google with its biggest ever fine, imposing a 4.34 billion euro ($5 billion) penalty, giving the US tech giant 90 days to change its practices.
+
+Brussels accused Google of using the Android system's dominance of smartphones and tablets to promote the use of its own Google search engine and shut out rivals. Google has appealed the decision, arguing that the EU's accusations were unfounded, but on Wednesday said it would comply with the decision in order to avoid further fines.
+
+
+
+	Maharashtra: Teachers trained for new learning methods-5
+
+
+
+At least 81 schools under the Maharashtra International Education Board (MIEB), an autonomous body under the state education department, is letting its teachers to not only create content for the students but also curate through various mediums. The MIEB Training Academy is helping the teachers to create 'customised' content for the students, with the help of online platforms like Google, YouTube and Android. According to officials, students are giving good response to these activity-based learning that is integrated with the curricula of MIEB.
+
+Before the academic year, during the vacations, all the teachers were given a seven-day residential training with the aim of their overall development. The schools who have been selected by the MIEB were technologically attested for both teachers and students.
+
+"Teachers were quite aware of Google and it's other programs so the training wasn't foreign for them," said Francis Joseph, Head (Development and Strategy), MIEB. The board has signed a collaboration agreement with Google for education in India with the goal of advancing personalised learning for students and teacher's development for collaborative learning.
+
+
+[business]		:
+
+		Karnataka: IT raids resort in Badami linked to Congress-1
+
+The Income Tax (IT) Department has conducted raids at a resort in Karnataka's Badami, where the Congress leaders are lodging for campaigning purpose.
+
+Some Congress leaders including KPCC working President SR Patil were reportedly present during the course of the raid at Krishna Heritage Resort. Badami is one of the two constituencies where Karnataka Chief Minister Siddaramaiah is contesting from, in the upcoming state assembly elections due on May 12.
+
+The raids started on Monday night and continued till Tuesday afternoon. According to reports, resort is linked to former BJP MLA Anand Singh who recently joined Congress. He is contesting from Vijaynagara seat. Siddaramaiah too has stayed in the resort in the campaign trail. Reacting to the development,Karnataka CM was quoted as saying, "Modi and Shah wants to threaten me using the IT department but they will not succeed". 
+
+
+		Idea, Vodafone to stay separate brands-2
+
+
+Two months after the news first surfaced on the potential merger between Aditya Birla Group-led Idea Cellular and British multinational telecommunications major Vodafone, the final board nod came on Monday with a surprise element. For one, both the brands will continue to operate and leverage under the merged entity, said Vodafone Group Plc CEO Vittorio Colao.
+
+"We have six circles, wherein we exceed the number of customers. As soon as Jio starts charging, we'll see what the real market share is. We have one year after completion to reach that (revenue) number," Colao said.
+
+Kumar Mangalam Birla, chairman of Aditya Birla Group and Idea Cellular Ltd, will be the chairman of the merged entity as well. "The transaction will be funded by promoters, and not by Grasim or any other listed companies," said Birla.
+
+	
+		Trina Solar mulls setting up solar cell, module factory in Visakhapatnam-3
+
+
+Buoyed by the better-than-expected growth in India, world's largest photovoltaic module and solar panel company Trina Solar Limited is considering setting up a cell and module factory in Visakhapatnam, a senior executive of the Chinese company told dna in an exclusive interview.
+
+The company has already signed a memorandum of understanding (MoU) with the Andhra Pradesh government for this.
+
+"Yes, we are looking at a manufacturing possibility (in India). We are doing a feasibility study. Actually, we have already identified the land in Visakhapatnam but we are still discussing the solar market in India. We are looking at what will be the cost of the product and where do we sell it. We already have a MoU signed with the AP government (for this)," said Helena Li, president – Asia Pacific and Middle East – Trina Solar.
+
+		
+		State Bank of India extends repayment period of auto dealers by 15-30 days-4
+
+
+State-owned bank State Bank of India (SBI) has decided to extend the repayment timelines for the automobile dealers by 15 to 30 days, give them more space and time to repay their loan without a penalty. This decision has come up amid slowing car sales continuously for the last nine months.
+
+P.K. Gupta, Managing Director (retail and digital banking), SBI said, "Normally, the repayment period is 60 days. So we extend it for 75 days for some dealers and to 90 days for a few others."
+
+The auto dealers owe more than Rs 11,000 crore to the bank.
+
+
+		Coffee Day Group to clear all due debt of Rs 4,970 crore-5
+
+
+Coffee Day Enterprises Ltd (CDEL) said on Saturday that total debt of the Coffee Day Group stands at Rs 4,970 crore and all obligations to the lenders will be honoured.
+
+Of this amount, Rs 4,796 crore is under secured loans and the rest Rs 174 crore under unsecured loans. The company has already announced divestment of Global Village Tech Park held by its subsidiary Tanglin Developments Ltd for an aggregate consideration of Rs 2,600 crore to 3,000 crore.
+
+"On receipt of the consideration for the sale of Global Village after payment of required statutory payments, the debt position of Coffee Day Group will reduce around by Rs 2,400 crore," it said in a statement.
+
+
+[politics]		:
+
+		
+		In search of a new political narrative in Tamil Nadu-1
+
+
+The death of Ms. Jayalalithaa, former Tamil Nadu chief minister and leader of the ADMK, has left a profound vacuum in the state’s politics. That this was followed by a prolonged illness, and eventual demise, of M Karunanidhi, the supreme leader of the DMK, makes this vacuum even more disturbing. And what happens here matters as Tamil Nadu will play a crucial role in 2019 elections.
+
+A question, which would have been unthinkable just a few years ago, is now doing the rounds: “Is there a political alternative for Tamil Nadu, away from the two Dravidian parties?”
+
+A brief history of Tamil Nadu should be mentioned: Pre-1947: DK Party launched by Periyar. 1947-1967: Congress Party rules the state. 1967: DMK wins assembly elections. 1972: MGR leaves DMK to form the ADMK. 1987: Death of MGR, Jayalalithaa eventually takes over. 1987-2018: Political power alternates between DMK and ADMK, with the latter dominating.
+
+
+[world]]		:
+	
+
+		Wave of wildfires in Spain's Galicia cuts roads, villages evacuated-1
+
+
+Firefighters backed by over a dozen aircraft battled forest blazes raging in Spain's northwestern region of Galicia since Thursday, cutting motorways and forcing the evacuation of several villages, regional authorities said on Friday.
+
+Fanned by strong winds amid hot and dry weather, the wildfires have destroyed over 500 hectares of forest so far.
+
+Regional authorities said two fires burning since Thursday in the municipalities of Barbantes and Monforte de Lemos have been stabilised but another two, in Fisterra and Porto do Son, remained active.
+
+
+		
+		Texas mass shooting: 7 killed, 24 injured; what we know so far-2
+
+
+The death toll in the drive-by mass shooting incident in the West Texas cities of Midland and Odessa on Saturday has risen to 7 after two more people died overnight while undergoing treatment, the authorities said on Sunday.
+
+The shooter has been identified as 36-year-old Seth Ator, according to multiple federal and local law enforcement officials. While the motive for the attack is yet to be ascertained, the investigators have ruled out any possible connection to domestic or international terrorism, CNN reported.
+
+"There are no definitive answers as to motive or reasons at this point," Odessa Police Chief Michael Gerke said.
+
+
+
+		Another Hindu girl abducted, forcefully converted to Islam in Pakistan-3
+
+
+In yet another tragic incident of forced conversion, a Hindu girl was allegedly abducted from the Institute of Business Administration (IBA) in Sukkur in the Sindh province of Pakistan on Saturday and was forcefully converted to Islam.
+
+The undergraduate student, identified as Renuka Kumari, was abducted from her college where she was pursuing a Bachelor's degree in Business Administration.
+
+All Pakistan Hindu Panchayat, a non-profit organisation, in a Facebook post claimed that the girl left for her college on August 29 and after that she went missing
+
+
+
+		Donald Trump posts classified military imagery on Twitter-4
+
+
+US President Donald Trump on Friday posted on Twitter a photo of what appeared to be the site of a failed Iranian satellite launch, raising questions about whether he had disclosed US surveillance secrets.
+
+The black-and-white photo showed the fire-blasted launch site at a space center in northern Iran including a damaged gantry service tower and a downed mobile erector launcher.
+
+Trump, in his tweet, cited the specific location of the site, saying the United States was not involved in the "catastrophic accident during final launch preparations for the Safir SLV Launch at Semnan Launch Site One in Iran."
+
+
+
+		US: At least two dead after armed man opens fire at residence in Arkansas city-5
+
+
+Two people are believed to be dead after a rifle-armed man opened fire at a residence in Arkansas on Tuesday.
+
+A SWAT team immediately reached the scene is currently responding to the situation, Sputnik reported.
+
+Reports also claimed that the shooter had opened fire on the police after killing two people. This was refuted by Helena-West Helena police chief Patrick Smith, who also dismissed reports of a hostage situation.
+
+
+
+[entertainment]		:
+
+		
+		'Chhichhore' Review: Sushant Singh Rajput-Shraddha Kapoor's film takes you on a nostalgia trip with minor hiccups-1
+
+
+The very opening scene of Chhichhore with a bunch of engineering hostel students engaged in a 'tub fight' in the middle of the night is enough to tell you that you're in for a fun ride. The tragedy hits within the first 20 minutes of the film but kudos to director Nitesh Tiwari for striking the perfect balance while oscillating between the present unfortunate situation and the memoirs of the past hostel/college life. It's evident that the film is a heartfelt tribute of the helmer to the days he spent in the campus of IIT Bombay as a student. 
+
+Though, the film does seem to have a hangover of movies like 3 Idiots, Jo Jeeta Wohi Sikandar and even Student of the Year (minus the gloss and sheen), and the major plots twists do become a bit predictable for a few, it doesn't disappoint owing to some cleverly written dialogues and one-liners that leave you in splits at regular intervals. It's interesting to see Tiwari almost touching the periphery of Raju Hirani-esque humour at several junctures. Mad props to Tiwari for capturing the minutest details in depicting the era of 90s -- be it the chipped paint on the hostel walls or the bottles of Campa Cola and Gold Spot in the college canteen
+
+
+
+		'We are telling more realistic stories than before': Actor-lyricist Swanand Kirkire-2
+
+
+Though he has won the coveted award as a lyricist as well as an actor, Swanand feels blessed that he doesn’t have to choose between the two. “God has given me the opportunity to do both,” says he. He has mostly been associated with content-driven works whether his debut, Sudhir Mishra’s Hazaaron Khwaishein Aisi (2003) or 'Tu Kisi Rail Si' in Masaan (2015). He has the same notion about films as well. “We are not just making song and dance films but other stuff as well. We are telling more realistic stories than before. Films like Mission Mangal and Batla House are doing well. It’s a good thing, our audiences are listening to stories,” he points out. The dialogue writer is also excited about the new breed of actors. “There are some extremely good performers today. I love Vicky Kaushal as an actor,” says he about the hero in whose debut, Masaan, Swanand wrote and sang Tu Kisi Rail Si. As far as lyricists go, Swanand tells us that he loves the works of Manoj Muntashir (Galliyan in Ek Villain, 2014) Varun Grover (Ud-Daa Punjab in Udta Punjab, 2016) and Kumaar (Tera Ban Jaunga in Kabir Singh), who is also his friend,” says he.
+
+
+		
+		VIRAL video: Salman Khan teaches Ahil how to do Ganesh puja, matches steps with mother Salma Khan at Visarjan-3
+
+
+Indians rang in Ganesh Chaturthi with zest a few days back. After waiting for a year, they celebrated the welcoming of Lord Ganesha and seeked his blessings. On September 3, they even immersed him back in water, bidding the elephant God goobye till next year.
+
+Various Bollywood celebrities also celebrated Ganesh Chaturthi and were high-on-energy during the visarjan. One such celebrity was superstar Salman Khan. Salman's mommy dearest Salma Khan welcomed Lord Ganesha at Arpita Khan Sharma's house with puja.
+
+The Ganesha celebrations, which lasted for two days, witnessed Katrina Kaif, Isabelle Kaif, Sunil Grover, Arhaan Khan, Sohail Khan and Seema Khan performing puja on the first day. Atul Agnihotri shared a video from the day on Instagram
+
+
+
+		'Koffee With Karan': Karan Johar's show takes a trip down memory lane starting with Shah Rukh Khan-4
+
+
+The first episode is dedicated to none other than Shah Rukh Khan! The upcoming special will feature his appearances in the hit show. In the very first promo, which released recently, the audience is taken down the memory lane.
+
+The first episode of the show is all about the Badshah of Bollywood. It includes several throwback stills and clips from 2007 to 2018. The 'Raees' actor talks not only about himself but his co-actors too. In fact, SRK, who is known for his sense of humour, showcases his amazing wit in many of the episodes of the talk show.
+
+The promo was shared by Star World on its YouTube page.
+
+
+		
+		'Mission Mangal' Box Office Report Day 15: Akshay Kumar, Vidya Balan starrer heading for Rs 190 crore-5
+
+
+Mission Mangal starring Akshay Kumar, Vidya Balan, Sonakshi Sinha, Taapsee Pannu, Kirti Kulhari, Nithya Menon and Sharman Joshi in pivotal roles is now heading towards Rs. 190 crore. After working well for two weeks, the movie saw normal drop on third Friday.
+
+Akshay Kumar-Vidya Balan starrer Mission Mangal went on to mint approximately Rs. 1.50-1.70 crore on third Friday. This is a normal drop as compared to John Abraham's Batla House which released on the same day and suffered by third Friday.
+
+Mission Mangal is set to cross Rs. 60 crore mark in Mumbai according to a report on Box Office India. The movie will mint Rs. 12 crore in Mysore and Rs. 10 crore in West Bengal. All the collections have set a benchmark for Akshay Kumar.
+
+
+
+[lifestyle]		:
+
+
+		'Visions of Education in India': A book that talks about rising inequality in the country's educational space-1
+
+
+Published by Aakar Books, 'Visions of Education in India' seeks to review education in the country through a matrix of nation-building, democratization process, identity, power, social and economic divisions, and social hierarchies – all in the overall framework of globalization and neo-liberalism. Divided in five parts, Visions of Education in India has contributions from 15 domain experts, leading academics and activists including the editors themselves, Medha Patkar, Prabhat Patnaik among others.
+
+
+
+		Guilt-free indulgence-2
+
+
+In the search for a healthy eatery that doesn’t compromise on taste, we found ourselves standing outside Seeds of Life one rainy evening. The warmly-lit interiors of this cosy Bandra-based restaurant, pretty green planters hanging from the ceiling and the earthy decor in white, green and brown, looked welcoming and we stepped inside, crossing our fingers and hoping to not find only salads on the menu.
+
+Luckily for us, even the founder, Mohit Bulchandani, shares our opinion, and we settled down to take a look at the menu that offered us everything from pizzas to pastas, burgers, desserts, and, yes, salads!
+
+
+
+		Statuesque and serene-3
+
+
+Finnish national Jemmi Rantanen (@jemminski) was in Thailand and visited the Sukhothai Historical Park, where she came across this majestic monument of Gautam Buddha. The name of the park translates into ‘dawn of happiness’, and the photographer exclaims that she hasn’t seen anything quite like the ruins before. We can’t help but agree! Also, if you are one of those travellers that don’t like crowded and typical touristy spots, she recommends this as the perfect go-to place. 
+
+
+		
+		It’s only words... An excerpt from the book of poetry, Love Without A Story-4
+
+
+I was eight when I looked through a keyhole
+
+and saw my mother in the drawing room in her hibiscus silk sari,
+
+her fingers slender around a glass of iced cola
+
+
+and I grew suddenly shy for never having seen her before.
+
+I knew her well, of course – serene undulation of blue mulmul, wrist serrated by thin gold bangle, gentle convexity of mole on upper right arm, and her high arched feet – better than I knew myself.
+
+And I knew her voice, like running water —     ice cubes in cola.
+
+
+But through the keyhole at the grown-up party, she was no longer geography.
+
+She seemed to know how to incline her neck, just when to sip her swirly drink and she understood the language of baritone voices and lacquered nails and words like Emergency.
+
+I could have watched her all night.
+
+
+
+		Sisterhood beyond boundaries: On International Women's Day, Google Doodle highlights quotes of 13 inspirational women-5
+
+
+On the occasion of International Women's Day, Google Doodle is celebrating the day with the illustrations of inspirational quotes by women who have been influential in their lives and a source of inspiration for many others. Google Doodle illustrated quotes from 13 notable women representing different nations who have played a role to empower women, followed their dreams and succeeded to bring a change in society.
+
+Google Doodle, which has its own way of marking any particular day, on the occasion of International Women's Day displayed colorful illustrations of the word women written in 11 languages including Hindi, Bengali, English, Urdu and other languages. 
+						

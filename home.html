@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <style>
+                .mySlides {display: none;}
+                img {vertical-align: middle;}
+                
+                /* Slideshow container */
+                .slideshow-container {
+                  max-width: 1300px;
+                  position: relative;
+                  margin: auto;
+                  min-height: 500px;
+                }
+                .mySlides img{
+                    height:500px;
+                    border-radius: 10px;
+                }
+                /* Caption text */
+                .text {
+                  color: #f2f2f2;
+                  font-size: 30px;
+                  padding: 8px 12px;
+                  position: absolute;
+                  bottom: 8px;
+                  width: 100%;
+                  font-family:Georgia, 'Times New Roman', Times, serif;
+                }
+                
+                /* Number text (1/3 etc) */
+                .numbertext {
+                  color: #f2f2f2;
+                  font-size: 12px;
+                  padding: 8px 12px;
+                  position: absolute;
+                  top: 0;
+                }
+                
+                /* The dots/bullets/indicators */
+                .dot {
+                  height: 15px;
+                  width: 15px;
+                  margin: 0 2px;
+                  background-color: #bbb;
+                  border-radius: 50%;
+                  display: inline-block;
+                  transition: background-color 0.6s ease;
+                }
+                
+                .active {
+                  background-color: #717171;
+                }
+                
+                /* Fading animation */
+                .fade {
+                  -webkit-animation-name: fade;
+                  -webkit-animation-duration: 1.5s;
+                  animation-name: fade;
+                  animation-duration: 1.5s;
+                }
+                
+                @-webkit-keyframes fade {
+                  from {opacity: .4} 
+                  to {opacity: 1}
+                }
+                
+                @keyframes fade {
+                  from {opacity: .4} 
+                  to {opacity: 1}
+                }
+                
+                /* On smaller screens, decrease text size */
+                @media only screen and (max-width: 300px) {
+                  .text {font-size: 11px}
+                }</style>
+</head>
+<body>
+    <div class="wrapper" id="wrap">
+        <div class="header">
+            <div class="nav">
+                    <div id="mySidenav" class="sidenav">
+                            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+                            <a id="h" href="home.html">Home</a>
+                            <a class="7st"href="#trend">Trending</a>
+                            <a class="5st" href="#">World</a>
+                            <a class="5st"href="#sports">Sports</a>
+                            <a class="6st"href="#technology">Technology</a>
+                            <a class="7st"href="#">Science</a>
+                            <a class="2st"href="#entertainment">Entertainment</a>
+                            <a class="4st"href="#lifestyle">lifestyle</a>
+                            
+                    </div>
+                          <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
+                          
+                          <script>
+                          function openNav() {
+                            document.getElementById("mySidenav").style.width = "250px";
+                          }
+                          
+                          function closeNav() {
+                            document.getElementById("mySidenav").style.width = "0";
+                          }
+                          </script>
+                         <div class="logo" id="lo">
+                             <h1 style="font-family: bookman"><span>Short</span>Feed.</h1>
+                         </div>
+                         <div class="logo1">
+                            <input type="text" placeholder="Search...."></input>
+                        </div>
+                              
+            </div>
+            <div class="log" id="log">
+                <a href="home.html"><b>Home</b></a>
+                <a style="color:red;padding:10px;">|</a>
+                <a href="#lifestyle">Lifestyle</a>
+                <a style="color:red;padding:10px;">|</a>
+                <a href="">Cricket</a>
+                <a style="color:red;padding:10px;">|</a>
+                <a href="#entertainment">Entertainment</a>
+                <a style="color:red;padding:10px;">|</a>
+                <a href="#technology">Tech</a>
+                <a style="color:red;padding:10px;">|</a>
+                <a href="#sports">Sports</a>
+                <a style="color:red;padding:10px;">|</a>
+                <a href="#business">Business</a>
+            </div>                  
+        </div>
+        <div class="secondnav">
+                <a href="#">Pro Kabadi Updates</a>
+                <a href="#chan">Chandrayan 2</a>
+                <a href="#">Movie Review</a>
+                <a href="#">Ashes Cricket</a>
+                <a href="#">Xiomi</a>
+                <a href="#">ROG</a> 
+                <a href="#">iphone x</a>  
+            </div>
+        <div class="content">
+          <!-- <div class="ads" style="margin-top:10px;"> -->
+                        <!-- <img style="margin-left: 200px;height:90%;"src="ads.jpg"> -->
+                <!-- </div>             -->
+                <div class="mainbreak" style="border-radius: 5px;">
+            <div class="break">
+                <h3>BREAKING NEWS :</h3>
+            </div>
+            <div class="bnews">
+                    <a href="#"><marquee  direction="left" scrollamount="18" onmouseover="this.stop()" onmouseout="this.start()"> | Lorem ipsum dolor sit amet consectetur adipisicing elite. |</marquee></a>                
+            </div>
+            </div>
+           
+                <div class="content1" >
+                    <div  class="live" style="margin-top:5px;">
+                           <div class="liven">
+                               <p style="color:red;margin-left:-100px;font-family:Arial, Helvetica, sans-serif;"><b>LIVE</b></p>
+                               <img src="flags-normal/in.png">
+                               IND
+                               <b>166/7(20.0 ov)</b><br>
+                               <img src="flags-normal/bd.png">
+                               BAN
+                               <b>152/10(19.2 ov)</b>
+                           </div>
+                           <div class="liven">
+                                        <p style="color:red;margin-left:-100px;font-family:Arial, Helvetica, sans-serif;"><b>LIVE</b></p>
+                                        <img src="flags-normal/pk.png">
+                                        PAK
+                                        <b>253/7(50.0 ov)</b><br>
+                                        <img src="flags-normal/zw.png">
+                                        ZEM
+                                        <b>152/10(45.2 ov)</b>
+                                </div>
+                                <div class="liven">
+                                                <h3 style="margin-top:-5px;">AUSTRAILA BEATS SRILANKA BY 50 RUNS</h3>
+                                                <img src="flags-normal/au.png">
+                                                AUS
+                                                <b>180/7(20.0 ov)</b><br>
+                                                <img src="flags-normal/lk.png">
+                                                SAL
+                                                <b>130/10(19.2 ov)</b>
+                                        </div>
+                                        <div class="liven">
+                                                        <h3 style="margin-top:-5px;">BREZIL BEATS CANADA BY 2 WICKETS</h3>
+                                                        <img src="flags-normal/ca.png">
+                                                        CAN
+                                                        <b>164/7(20.0 ov)</b><br>
+                                                        <img src="flags-normal/br.png">
+                                                        BRE
+                                                        <b>165/5(19.2 ov)</b>
+                                                </div>
+                                                <div class="liven">
+                                                                <h3 style="margin-top:-5px;">DUE TO HEAVY RAIN MATCH WAS STOPPED</h3>
+                                                                <img src="flags-normal/zm.png">
+                                                                ZM
+                                                                <b>300/9(50.0 ov)</b><br>
+                                                                <img src="flags-normal/lr.png">
+                                                                IRL
+                                                                <b>110/2(19.2 ov)</b>
+                                                        </div>
+                    </div>
+                    <div class="mainslider">
+                                <div class="slideshow-container">
+
+                                                <div class="mySlides fade">
+                                                 
+                                                  <img src="sports/hockey.jpg" style="width:100%;">
+                                                  <div class="text"><a>Hockey: India face 1-2 defeat against New Zealand at Olympic Test Event-5</a></div>
+                                                </div>
+                                                
+                                                <div class="mySlides fade">
+                                                 
+                                                  <img src="tech/microsoft.jpg" style="width:100%">
+                                                  <div class="text">Microsoft planning a foldable Surface with Android apps: Report-3
+                                                        </div>
+                                                </div>
+                                                
+                                                <div class="mySlides fade">
+                                                  
+                                                  <img src="lifestyle/statue.jpg" style="width:100%">
+                                                  <div class="text">
+                                                                Statuesque and serene-3Finnish national Jemmi Rantanen (@jemminski) was in Thailand and visited the Sukhothai Historical Park, where she came across ....
+                                                </div>
+                                                </div>
+                                                <div class="mySlides fade">
+                                                    <img src="world/wave.jpg" style="width:100%">
+                                                    <div class="text">US: At least two dead after armed man opens fire at residence in Arkansas city-5
+                                                        </div>
+                                                  </div>
+                                                </div>
+                                                
+                                                </div>
+                                                <br>
+                                                
+                                                 <div style="text-align:center">  
+                                                  <span class="dot"></span> 
+                                                  <span class="dot"></span> 
+                                                  <span class="dot"></span> 
+                                                  <span class="dot"></span> 
+                                                 
+                                                </div>
+                                                <hr>
+                                                
+                                                <script>
+                                                var slideIndex = 0;
+                                                showSlides();
+                                                
+                                                function showSlides() {
+                                                  var i;
+                                                  var slides = document.getElementsByClassName("mySlides");
+                                                  var dots = document.getElementsByClassName("dot");
+                                                  for (i = 0; i < slides.length; i++) {
+                                                    slides[i].style.display = "none";  
+                                                  }
+                                                  slideIndex++;
+                                                  if (slideIndex > slides.length) {slideIndex = 1}    
+                                                  for (i = 0; i < dots.length; i++) {
+                                                    dots[i].className = dots[i].className.replace(" active", "");
+                                                  }
+                                                  slides[slideIndex-1].style.display = "block";  
+                                                  dots[slideIndex-1].className += " active";
+                                                  setTimeout(showSlides, 2000); // Change image every 2 seconds
+                                                }
+                                                </script>
+                        </div>
+                  
+                <div class="imgc">
+                    <img src="business/atm.jpg" ></img>
+                </div>
+                <div class="newsc1">
+                        <h4 style="margin-top:-150px;color:lightsalmon;">BUSNIESS</h4>
+                    <a>State Bank of India extends repayment period of auto dealers by 15-30 days-4<br>
+                        State-owned bank State Bank of India (SBI) has decided to extend the repayment timelines for the automobile dealers by 15 to 30 days, give them more space and time to repay their loan without a penalty. This decision has come up amid slowing car sales continuously for the last nine months.
+                        P.K. Gupta, Managing Director (retail and digital banking), SBI said, "Normally, the repayment period is 60 days. So we extend it for 75 days for some dealers and to 90 days for a few others."
+                        The auto dealers owe more than Rs 11,000 crore to the bank.
+                    </a>
+                </div>
+                <hr>
+                <div class="imgc">
+                        <img src="entertainment/actor.jpg" ></img>
+                </div>
+                <div class="newsc1">
+                                <h4 style="margin-top:-150px;color:lightslategrey;">TAMILNADU</h4>
+                        <a>'Chhichhore' Review: Sushant Singh Rajput-Shraddha Kapoor's film takes you on a nostalgia trip with minor hiccups-1
+                                        The very opening scene of Chhichhore with a bunch of engineering hostel students engaged in a 'tub fight' in the middle of the night is enough to tell you that you're in for a fun ride. The tragedy hits within the first 20 minutes of the film but kudos to director Nitesh Tiwari for striking the perfect balance while oscillating between the present unfortunate situation and the memoirs of the past hostel/college life. It's evident that the film is a heartfelt tribute of the helmer to the days he spent in the campus of IIT Bombay as a student. 
+                                        Though, the film does seem to have a hangover 
+                                        
+                        </a>
+                </div>
+                <hr>
+                <div class="imgc">
+                        <img src="lifestyle/women.png" ></img>
+                </div>
+                <div class="newsc1">
+                                <h4 style="margin-top:-150px;color:lightgreen;">ENTERTIMENT</h4>
+                         <a>Sisterhood beyond boundaries: On International Women's Day, Google Doodle highlights quotes of 13 inspirational women-5
+                                        On the occasion of International Women's Day, Google Doodle is celebrating the day with the illustrations of inspirational quotes by women who have been influential in their lives and a source of inspiration for many others. Google Doodle illustrated quotes from 13 notable women representing different nations who have played a role to empower women, followed their dreams and succeeded to bring a change in society.
+                                        Google Doodle, which has its own way of marking any particular day, on the occasion of International Women's Day displayed colorful illustrations of the word women written in 11 languages .. 
+                                                                                        </a> 
+                </a></div>
+                <hr>
+                <div class="imgc">
+                        <img src="sports/boxing.jpg" ></img>
+                </div>
+                <div class="newsc1">
+                                <h4 style="margin-top:-150px;color:lightskyblue;">SPORTS</h4>
+                        <a>2019 BWF World Championships: Kidambi Srikanth seeks to find mojo again-4
+
+
+
+                                        The 2019 BWF World Championships in Basel, Switzerland, from Monday is the tournament for India's best men's singles shuttler Kidambi Srikanth to redeem his career.
+                                        
+                                        A lot of hopes are pinned on the former world No. 1, though for a brief period in April 2018, who has had an awful 2019 so far.
+                                        
+                                        The world No. 10 enters his fifth World Championships as the seventh seed and is set to face Ireland's Vietnam-born Nhat Nguyen on Monday, the same player against whom he opened his 2018 Worlds in Nanjing, China, winning in straight games in what was their first and only head-to-head in the international circuit.
+                                        
+                        </a>
+                </div>
+                <hr>
+                <div class="imgc">
+                        <img src="tech/google.png" ></img>
+                </div>
+                <div class="newsc1">
+                                <h4 style="margin-top:-150px;color:mediumaquamarine;">TECHNOLOGY</h4>
+                        <a>Google offers solutions to avoid more EU Android fines-4
+
+
+
+                                        Google formally offered its solutions to avoid more EU mega-fines Wednesday, after Brussels accused the US tech giant of illegally abusing the dominance of its Android operating system for mobile devices.
+                                        
+                                        The European Commission in July hit Google with its biggest ever fine, imposing a 4.34 billion euro ($5 billion) penalty, giving the US tech giant 90 days to change its practices.
+                                        
+                                        Brussels accused Google of using the Android system's dominance of smartphones and tablets to promote the use of its own Google search engine and shut out rivals. Google has appealed the decision, arguing that the EU's accusations were unfounded, but on Wednesday said it would comply with the decision in order to avoid further fines.
+                                        
+                                        
+                                        
+                        </a>
+                </div>
+                <hr>
+                <div class="imgc">
+                        <img src="world/twitter.jpg" ></img>
+                </div>
+                <div class="newsc1">
+                                <h4 style="margin-top:-150px;color:salmon;">WORLD</h4>
+                        <a>Donald Trump posts classified military imagery on Twitter-4
+                                        US President Donald Trump on Friday posted on Twitter a photo of what appeared to be the site of a failed Iranian satellite launch, raising questions about whether he had disclosed US surveillance secrets.
+                                        The black-and-white photo showed the fire-blasted launch site at a space center in northern Iran including a damaged gantry service tower and a downed mobile erector launcher.
+                                        Trump, in his tweet, cited the specific location of the site, saying the United States was not involved in the "catastrophic accident during final launch preparations for the Safir SLV Launch at Semnan Launch Site One in Iran."
+                                        
+                        </a>
+                </div>
+                <hr >
+                </div>
+                <div class="trending">
+                <h3 id="trend" style="font-family: Arial, Helvetica, sans-serif;font-size: 30px;color:white;margin-left:30px;">TRENDING</h3>   
+                <div class="slider" >
+                    <div class="slide" id="slide-1" >
+                        <div class="imgc1">
+                            <img src="business/coffee.jpg" ></img>
+                            <div class="newc2"><a>
+                                        Coffee Day Group to clear all due debt of Rs 4,970 crore-5
+                        Coffee Day Enterprises Ltd (CDEL) said on Saturday that total debt of the Coffee Day Group stands at Rs 4,970 crore and all obligations to the lenders will ..
+                        </a></div>
+                    </div>
+                    </div>
+                    <div class="slide" id="slide-2">
+                            <div class="imgc1">
+                                    <img src="entertainment/boxoffice.jpg" ></img>
+                                    <div class="newc2"><a>
+                                                'Mission Mangal' Box Office Report Day 15: Akshay Kumar, Vidya Balan starrer heading for Rs 190 crore-5
+                                Mission Mangal starring Akshay Kumar, Vidya Balan, Sonakshi Sinha, Taapsee Pannu, Kirti Kulhari, Nithya Menon...</a></div>
+                            </div>
+                    </div>
+                    <div class="slide" id="slide-3">
+                            <div class="imgc1">
+                                    <img src="lifestyle/statue.jpg" ></img>
+                                    <div class="newc2"><a>
+                                                Statuesque and serene-3
+                                Finnish national Jemmi Rantanen (@jemminski) was in Thailand and visited the Sukhothai Historical Park, where she came across this majestic monument of Gautam Buddha.... 
+                                
+                                
+                                             </a></div>
+                            </div>
+                    </div>
+                    <div class="slide" id="slide-4">
+                            <div class="imgc1">
+                                    <img src="sports/cock.jpg" ></img>
+                                    <div class="newc2"><a>Vijender Singh's Olympic hopes dashed after Vikas Krishan qualifies for Rio-1
+                                        With Vikas Krishan making the cut for Olympics in the 75kg category, the door is shut on the much celebrated Vijender Singh...
+                                        
+                                        </a></div>
+                            </div>
+                    </div>
+                    <div class="slide" id="slide-5">
+                            <div class="imgc1">
+                                    <img src="tech/microsoft.jpg" ></img>
+                                    <div class="newc2"><a>
+                                        Microsoft planning a foldable Surface with Android apps: Report-3
+                                Microsoft is reportedly planning to introduce a smaller Surface-like tablet that will have a foldable display.IHS Markit told Forbes in an email that the purported Microsoft tablet</a></div>
+                            </div>
+                    </div>
+                </div> 
+                </div> 
+              <!-- <div class="chan" id="chan" style="height:50%;width:50%"> 
+                    <h2 ><u>Chandrayan 2:</u></h2>
+                  <video  controls poster="chan.jpg">
+                        <source src="ISRO-CHANDRAYAAN 2 (3D Animation) ( 720 X 1280 ).mp4"
+                        type="video/mp4">
+                    </video>
+                </div>
+                <div class="chann">
+                        <div class="imgc" style="height:100%; width:100%;">
+                                <img src="earth.png" ></img>        
+                        </div>
+                        <div class="newsc1">
+                                <a>The fifth earth-bound orbit-raising manoeuvres of the Chandrayaan 2 spacecraft has been successfully completed Tuesday afternoon, as planned, the Indian Space Research Organisation confirmed in a tweet.
+                                        The manoeuvre was carried out at 3.04 pm IST using the onboard propulsion system for a firing duration of 1041 seconds (~17 minutes), four days after the fourth orbit-raising was completed, placing the spacecraft -in a 276 x 142975 km orbit (nearest x furthest Earth-bound altitude), according to ISRO. The final orbit achieved by the Chandrayaan 2 spacecraft after the fourth orbit-raising is  277 x 89472 km.
+                                        ISRO also reported that all the spacecraft parameters were normal. The next step will be the Trans Lunar Insertion (TLI) that is scheduled for the afternoon of 14 August at 3.00 pm - 4.00 pm IST.
+                                        The TLI is a manoeuvre of thrusts used to set the spacecraft on the moon-bound path. After this, the Chandrayaan 2 composite will take less than a week to arrive in the proximity of the moon. This manoeuver will place the spacecraft on a 266 x 4,13,623 orbit that will end in the next stage of the mission: lunar transfer.
+                                        Chandrayaan 2: Fifth orbit-raising of spacecraft completed successfully, ISRO confirms
+                                        Illustration of the orbit-raising of the Chandrayaan 2 spacecraft in its Earth-bound phase. Image: ISRO       
+                                </a>
+                        </div>
+                        <hr>
+                 </div> -->
+                </div>     
+            
+            <div class="contenta" id="business">
+                <h3 style="font-family: Arial, Helvetica, sans-serif;font-size: 30px;color:white;margin-left:30px;">BUSINESS</h3>
+                <hr>
+                <div class="imgc2">
+                        <img src="business/atm.jpg" ></img>
+                </div>
+                <div class="newsc3">
+                        <a>State Bank of India extends repayment period of auto dealers by 15-30 days-4
+                                State-owned bank State Bank of India (SBI) has decided to extend the repayment timelines for the automobile dealers by 15 to 30 days, give them more space and time to repay their loan without a penalty. This decision has come up amid slowing car sales continuously for the last nine months.P.K. Gupta, Managing Director (retail and digital banking), SBI said, "Normally, the repayment period is 60 days. So we extend it for 75 days for some dealers and to 90 days for a few others."
+                                The auto dealers owe more than Rs 11,000 crore to the bank.
+                        </a>
+                </div>
+                <hr>
+                <div class="imgc2">
+                        <img src="business/coffee.jpg" ></img>
+                </div>
+                <div class="newsc3"> <a>
+                        Coffee Day Group to clear all due debt of Rs 4,970 crore-5 Coffee Day Enterprises Ltd (CDEL) said on Saturday that total debt of the Coffee Day Group stands at Rs 4,970 crore and all obligations to the lenders will be honoured. Of this amount, Rs 4,796 crore is under secured loans and the rest Rs 174 crore under unsecured loans. The company has already announced divestment of Global Village Tech Park held by its subsidiary Tanglin Developments Ltd for an aggregate consideration of Rs 2,600 crore to 3,000 crore."On receipt of the consideration for the sale of Global Village after payment of required statutory payments, the debt position of Coffee Day Group will reduce around by Rs 2,400 crore," it said in a statement.
+                </a></div>
+                <hr>
+                <div class="imgc2">
+                        <img src="business/money.jpg" ></img>
+                </div>
+                <div class="newsc3">
+                        <a>Karnataka: IT raids resort in Badami linked to Congress-1 The Income Tax (IT) Department has conducted raids at a resort in Karnataka's Badami, where the Congress leaders are lodging for campaigning purpose.
+                         Some Congress leaders including KPCC working President SR Patil were reportedly present during the course of the raid at Krishna Heritage Resort. Badami is one of the two constituencies where Karnataka Chief Minister Siddaramaiah is contesting from, in the upcoming state assembly elections due on May 12.
+                         The raids started on Monday night and continued till Tuesday afternoon. According to reports, resort is linked to former BJP MLA Anand Singh who ...
+                        </a>
+                </div>
+                <hr>
+                <div class="imgc2">
+                        <img src="business/sim.jpg" ></img>
+                </div>
+                <div class="newsc3">
+                        <a>
+                                Idea, Vodafone to stay separate brands-2 Two months after the news first surfaced on the potential merger between Aditya Birla Group-led Idea Cellular and British multinational telecommunications major Vodafone, the final board nod came on Monday with a surprise element. For one, both the brands will continue to operate and leverage under the merged entity, said Vodafone Group Plc CEO Vittorio Colao."We have six circles, wherein we exceed the number of customers. As soon as Jio starts charging, we'll see what the real market share is. We have one year after completion to reach that (revenue) number," Colao said.Kumar Mangalam Birla, chairman ..
+                        </a>
+                </div>
+                <hr>
+                <!-- <div class="imgc2">                         <img src="business/solarcell.jpg" ></img>
+                </div>
+                 <div class="newsc3"> 
+                        <a>Trina Solar mulls setting up solar cell, module factory in Visakhapatnam-3Buoyed by the better-than-expected growth in India, world's largest photovoltaic module and solar panel company Trina Solar Limited is considering setting up a cell and module factory in Visakhapatnam, a senior executive of the Chinese company told dna in an exclusive interview.
+                          The company has already signed a memorandum of understanding (MoU) with the Andhra Pradesh government for this.
+                         "Yes, we are looking at a manufacturing possibility (in India). We are doing a feasibility study. Actually, we have already identified the land in ....
+                </a> -->
+                </div>
+                </div>
+                <hr>
+                <h2 ><u>MEME Corner:</u></h2>
+                <div class="memes">
+                        <div class="meme">
+                        </div>
+                        <div class="meme"></div>
+                        <div class="meme"></div>
+                        <div class="meme"></div>
+                        <div class="meme"></div>
+                        <div class="meme"></div>
+                        <div class="meme"></div>
+                        <div class="meme"></div>
+                        <div class="meme"></div>
+                        <div class="meme"></div>
+                        <div class="meme"></div>
+                        <div class="meme"></div>
+                        <div class="meme"></div>
+                        <div class="meme"></div>
+                        <div class="meme"></div>
+                        <div class="meme"></div>
+                </div>
+                <div class="sports" id="sports">
+                        <h3 style="font-family: Arial, Helvetica, sans-serif;font-size: 30px;color:white;margin-left:30px;">Sports</h3>
+                <hr>
+                <div class="imgc3">
+                        <img src="sports/boxing.jpg" ></img>
+                </div>
+                <div class="newsc3">
+                        <a>2019 BWF World Championships: Kidambi Srikanth seeks to find mojo again-4 The 2019 BWF World Championships in Basel, Switzerland, from Monday is the tournament for India's best men's singles shuttler Kidambi Srikanth to redeem his career. A lot of hopes are pinned on the former world No. 1, though for a brief period in April 2018, who has had an awful 2019 so far.The world No. 10 enters his fifth World Championships as the seventh seed and is set to face Ireland's Vietnam-born Nhat Nguyen on Monday, the same player against whom he opened his 2018 Worlds in Nanjing, China, winning in straight games in what was their first and only head-to-head in the international circuit.         
+                        </a>
+                </div>
+                <hr>
+                <div class="imgc3">
+                        <img src="sports/dhoni.jpg" ></img>
+                </div>
+                <div class="newsc3"> <a>
+                        Different gamepLeh: MS Dhoni plays cricket with kids on a basketball court-3Former Indian captain MS Dhoni - who was serving in the Parachute Regiment of the Territorial Army in Jammu and Kashmir - is making the most of his time in the valley.Dhoni is carrying out patrolling, guard duties and similar responsibilities just like other soldiers. But there is nothing stopping the wicketkeeper when it comes to cricket. A picture of Dhoni playing cricket with kids in Leh has gone viral on social media. 
+
+                </a></div>
+                <hr>
+                <div class="imgc3">
+                        <img src="sports/cricket.jpg" ></img>
+                </div>
+                <div class="newsc3">
+                        <a>
+                                ICC Test rankings: Steve Smith closes in on Virat Kohli, overtakes Kane Williamson to second position-2Indian skipper Virat Kohli on Monday retained the top spot in the latest ICC Test batsmen's rankings while Australia's Steve Smith moved to the second position.Smith overtook New Zealand captain Kane Williamson to reach the second spot. Smith is now just nine points behind Kohli. Kohli has 922 points whereas Smith has 913 points.The 30-year-old Smith has so far scored 378 runs in the ongoing Ashes series between England and Australia. But Kohli will get a chance to better his lead as India gear up to face West Indies in the two-match series.
+                        </a>
+                </div>
+                <hr>
+                <div class="imgc3">
+                        <img src="sports/cock.jpg" ></img>
+                </div>
+                <div class="newsc3">
+                        <a>
+                                Vijender Singh's Olympic hopes dashed after Vikas Krishan qualifies for Rio-1.With Vikas Krishan making the cut for Olympics in the 75kg category, the door is shut on the much celebrated Vijender Singh, who was eyeing qualification to Rio ever since the International Boxing Association (AIBA) allowed professional boxers to compete in the quadrennial showpiece. Vikas entered the semifinals of the AIBA World Qualifying Tournament in Baku, Azerbaijan to book a Rio berth after out-punching Korea's Lee Dongyun in the quarterfinals 3-0 on Thursday.Though disappointed that he would not be able to take a shot at Olympic qualification now, Vijender said he is happy for those who have made the cut.                                
+                        </a>
+                </div>
+                <hr>
+                <div class="imgc3">
+                        <img src="sports/hockey.jpg" ></img>
+                </div>
+                <div class="newsc3">
+                        <a>
+                                Hockey: India face 1-2 defeat against New Zealand at Olympic Test Event-5The Indian men's hockey team suffered a defeat at the hands of world number eight New Zealand by 1-2 in their second match of the Olympic Test Event at the Oi Hockey Stadium here on Sunday. Captain Harmanpreet Singh gave India the lead in the second minute by converting a penalty corner, but New Zealand struck back in the last quarter through two well-crafted field goals, which were scored by Jacob Smith (47') and Sam Lane (60'). World number five Indian side started the match with an aggressive approach and dominated possession in the opening few minutes. India won their first penalty corner in just second minute, which was beautifully converted by Harmanpreet to give his team a quick start and a 1-0 lead.      
+                        </a>
+                </div>
+                <hr>
+                </div>
+                <div class="cricket" id="cricket">
+                        <div class="cricketmain">
+                                <img></img>
+                                <a></a>
+                        </div>
+                       <div class="imgc4">  </div>
+                      <div class="newsc5"></div>
+                      <div class="imgc4"> </div>
+                        <div class="newsc5"></div>
+                        <div class="imgc4"> </div>
+                        <div class="newsc5"></div>
+                </div>
+                <div class="entertainment" id="entertainment">
+                        <h2 style="color:white;margin-left: 20px;font-family: Arial, Helvetica, sans-serif;font-size:40px">ENTERTAINMENT</h2>
+                        <div class="entertainmentmain">
+                                <img src="entertainment/shkhan.jpg" style="margin-left:140px;width:1000px;">
+                               <div class="entertainmentnews" style="margin-left:40px;margin-right: 40px;"> <a><br>'Koffee With Karan': Karan Johar's show takes a trip down memory lane starting with Shah Rukh Khan-4The first episode is dedicated to none other than Shah Rukh Khan! The upcoming special will feature his appearances in the hit show. In the very first promo, which released recently, the audience is taken down the memory lane.  The first episode of the show is all about the Badshah of Bollywood. It includes several throwback stills and clips from 2007 to 2018. The 'Raees' actor talks not only about himself but his co-actors too. In fact, SRK, who is known for his sense of humour, showcases his amazing wit in many of the episodes of the talk show.The promo was shared by Star World on its YouTube page.</div>
+                          </a>
+                          <br>
+                        </div>
+                        <div class="entertainmentc">
+                        <hr>
+                        <div class="imgc2"><img src="entertainment/puja.jpg" ></div>
+                        <div class="newsc3"><a>VIRAL video: Salman Khan teaches Ahil how to do Ganesh puja, matches steps with mother Salma Khan at Visarjan-3 Indians rang in Ganesh Chaturthi with zest a few days back. After waiting for a year, they celebrated the welcoming of Lord Ganesha and seeked his blessings. On September 3, they even immersed him back in water, bidding the elephant God goobye till next year.  Various Bollywood celebrities also celebrated Ganesh Chaturthi and were high-on-energy during the visarjan. One such celebrity was superstar Salman Khan. Salman's mommy dearest Salma Khan welcomed Lord Ganesha at Arpita Khan Sharma's house with puja.
+                                        </a></div>
+                                        <hr>
+                        <div class="imgc2"><img src="entertainment/boxoffice.jpg" ></div>
+                        <div class="newsc3"><a>
+                                        'Mission Mangal' Box Office Report Day 15: Akshay Kumar, Vidya Balan starrer heading for Rs 190 crore-5 Mission Mangal starring Akshay Kumar, Vidya Balan, Sonakshi Sinha, Taapsee Pannu, Kirti Kulhari, Nithya Menon and Sharman Joshi in pivotal roles is now heading towards Rs. 190 crore. After working well for two weeks, the movie saw normal drop on third Friday. Akshay Kumar-Vidya Balan starrer Mission Mangal went on to mint approximately Rs. 1.50-1.70 crore on third Friday. This is a normal drop as compared to John Abraham's Batla House which released on the same 
+                        </a></div>
+                        <hr>
+                        <div class="imgc2"><img src="entertainment/review.jpg" ></div>
+                        <div class="newsc3"><a>'Chhichhore' Review: Sushant Singh Rajput-Shraddha Kapoor's film takes you on a nostalgia trip with minor hiccups-1 The very opening scene of Chhichhore with a bunch of engineering hostel students engaged in a 'tub fight' in the middle of the night is enough to tell you that you're in for a fun ride. The tragedy hits within the first 20 minutes of the film but kudos to director Nitesh Tiwari for striking the perfect balance while oscillating between the present unfortunate situation and the memoirs of the past hostel/college life. It's evident that the film is a heartfelt tribute of the helmer to the days he spent in the campus of IIT Bombay as a student. </a></div><br>
+                       </div>
+                </div>
+                <div class="lifestyle" id="lifestyle">
+                                <h3 id="trend" style="font-family: Arial, Helvetica, sans-serif;font-size: 30px;color:white;margin-left: 30px;">LIFESTYLE</h3>   
+                                <div class="slider" >
+                                    <div class="slide" id="slide-1" >
+                                        <div class="imgc1">
+                                            <img src="business/coffee.jpg" ></img>
+                                            <div class="newc2"><a>
+                                                        Coffee Day Group to clear all due debt of Rs 4,970 crore-5
+                                        Coffee Day Enterprises Ltd (CDEL) said on Saturday that total debt of the Coffee Day Group stands at Rs 4,970 crore and all obligations to the lenders will be honoured.Of this amount, Rs 4,796 crore is under secured loans....
+                                        </a></div>
+                                    </div>
+                                    </div>
+                                    <div class="slide" id="slide-2">
+                                            <div class="imgc1">
+                                                    <img src="entertainment/boxoffice.jpg" ></img>
+                                                    <div class="newc2"><a>
+                                                                'Mission Mangal' Box Office Report Day 15: Akshay Kumar, Vidya Balan starrer heading for Rs 190 crore-5
+                                                Mission Mangal starring Akshay Kumar, Vidya Balan, Sonakshi Sinha, Taapsee Pannu, Kirti Kulhari, Nithya Menon and Sharman Joshi in pivotal roles is....</a></div>
+                                            </div>
+                                    </div>
+                                    <div class="slide" id="slide-3">
+                                            <div class="imgc1">
+                                                    <img src="lifestyle/statue.jpg" ></img>
+                                                    <div class="newc2"><a>
+                                                                Statuesque and serene-3
+                                                Finnish national Jemmi Rantanen (@jemminski) was in Thailand and visited the Sukhothai Historical Park, where she came across this majestic monument of Gautam Buddha.... 
+                                                
+                                                
+                                                             </a></div>
+                                            </div>
+                                    </div>
+                                    <div class="slide" id="slide-4">
+                                            <div class="imgc1">
+                                                    <img src="sports/cock.jpg" ></img>
+                                                    <div class="newc2"><a>Vijender Singh's Olympic hopes dashed after Vikas Krishan qualifies for Rio-1
+                                                        With Vikas Krishan making the cut for Olympics in the 75kg category, the door is shut on the much celebrated Vijender Singh...
+                                                        
+                                                        </a></div>
+                                            </div>
+                                    </div>
+                                    <div class="slide" id="slide-5">
+                                            <div class="imgc1">
+                                                    <img src="tech/microsoft.jpg" ></img>
+                                                    <div class="newc2"><a>
+                                                        Microsoft planning a foldable Surface with Android apps: Report-3
+                                                Microsoft is reportedly planning to introduce a smaller Surface-like tablet that will have a foldable display.IHS Markit told Forbes in an email that the purported Microsoft tablet</a></div>
+                                            </div>
+                                    </div>
+                                </div>  
+                              
+                </div>
+                <div class="technology" id="technology">
+                                <h3 style="font-family: Arial, Helvetica, sans-serif;font-size: 30px;color:white;margin-left:30px;">TECHNOLOGY</h3>
+                                <hr>
+                                <div class="imgc2">
+                                        <img src="tech/whatsapp.jpg" ></img>
+                                </div>
+                                <div class="newsc3">
+                                        <a>WhatsApp rolls out fingerprint lock feature for its Beta users-1 WhatsApp developers have finally rolled out the fingerprint lock feature in the latest Beta version of the app. This feature reaches the beta testing version about eight months after it was initially spotted as a hidden feature. It is worth noting that the company already rolled out the feature for iOS beta users of WhatsApp more than three months back.
+                                        WhatsApp wants to ensure that the name of the feature best reflects what it does while not creating any confusion. According to a report by WABetaInfo, this feature is now available Android beta users running the app version 2.19.221.
+                                        </a>
+                                </div>
+                                <hr>
+                                <div class="imgc2">
+                                        <img src="tech/teacher.jpg" ></img>
+                                </div>
+                                <div class="newsc3"> <a>
+                                                Maharashtra: Teachers trained for new learning methods-5
+                                                At least 81 schools under the Maharashtra International Education Board (MIEB), an autonomous body under the state education department, is letting its teachers to not only create content for the students but also curate through various mediums. The MIEB Training Academy is helping the teachers to create 'customised' content for the students, with the help of online platforms like Google, YouTube and Android. According to officials, students are giving good response to these activity-based learning that is integrated with the curricula of MIEB.
+                                </a></div>
+                                <hr>
+                                <div class="imgc2">
+                                        <img src="tech/google.png" ></img>
+                                </div>
+                                <div class="newsc3">
+                                        <a>Google offers solutions to avoid more EU Android fines-4
+
+
+
+                                                        Google formally offered its solutions to avoid more EU mega-fines Wednesday, after Brussels accused the US tech giant of illegally abusing the dominance of its Android operating system for mobile devices.
+                                                        
+                                                        The European Commission in July hit Google with its biggest ever fine, imposing a 4.34 billion euro ($5 billion) penalty, giving the US tech giant 90 days to change its practices.
+                                                        
+                                                        Brussels accused Google of using the Android system's dominance of smartphones and tablets to promote the use of its own Google search engine and shut out rivals. Google has appealed the decision, arguing that the EU's accusations were unfounded, but on Wednesday said it would comply with the decision in order to avoid further fines.
+                                                        
+                                        </a>
+                                </div>
+                                <hr>
+                                <div class="imgc2">
+                                        <img src="business/sim.jpg" ></img>
+                                </div>
+                                <div class="newsc3">
+                                        <a>
+                                                Idea, Vodafone to stay separate brands-2 Two months after the news first surfaced on the potential merger between Aditya Birla Group-led Idea Cellular and British multinational telecommunications major Vodafone, the final board nod came on Monday with a surprise element. For one, both the brands will continue to operate and leverage under the merged entity, said Vodafone Group Plc CEO Vittorio Colao."We have six circles, wherein we exceed the number of customers. As soon as Jio starts charging, we'll see what the real market share is. We have one year after completion to reach that (revenue) number," Colao said.Kumar Mangalam Birla, chairman ..
+                                        </a>
+                                </div>
+                                <hr>  
+                </div>
+
+        </div>
+        <div class="footer" style="border-top:5px solid black;"id="footer">
+                        <div class="logo" id="lo" style="margin-top:50px;">
+                                        <h1 style="font-family: bookman;text-align:left;" ><span>Short</<span>Feed.</h1>
+                         </div>   
+                         <div class="social" style="margin-left:80%;margin-top:-60px;">
+                                <a><img src="svg/social-1_logo-facebook.svg" ></a>
+                                <a> <img src="svg/social-1_logo-instagram.svg"></a>
+                                <a><img src="svg/social-1_logo-twitter.svg"></a>
+                         </div>
+                         <hr>
+                         <div class="copy">
+                                 <p align="center">Copyright@2019 Shortfeed - All Rights Reserved</p>
+                                 <div class="copy1">
+                                         <a href="terms.html">Terms of use</a>
+                                         <a>|</a>
+                                         <a href="privacy.html">Privacy</a>
+                                         <a>|</a>
+                                         <a href="terms.html">Cookie Privacy</a>                                      
+                                 </div>
+                                 <div class="backtotop" style="margin-top:10px;">
+                                         <a style="text-decoration:none;margin-left:560px;color:black;"href="#wrap">Back To Top</a>
+                                 </div>
+                         </div>
+        </div>
+    </div>
+</body>
+</html>
